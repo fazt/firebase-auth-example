@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/FaztWeb/firebase-auth-example#readme",
   "dependencies": {
-    "firebase-tools": "^11.11.0",
-    "i": "^0.3.7"
+    "firebase-tools": "^11.11.0"
   }
 }
