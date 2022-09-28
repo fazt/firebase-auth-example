@@ -1,0 +1,24 @@
+{
+  "name": "firebase-auth-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaztWeb/firebase-auth-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaztWeb/firebase-auth-example/issues"
+  },
+  "homepage": "https://github.com/FaztWeb/firebase-auth-example#readme",
+  "dependencies": {
+    "firebase-tools": "^11.11.0",
+    "i": "^0.3.7"
+  }
+}
